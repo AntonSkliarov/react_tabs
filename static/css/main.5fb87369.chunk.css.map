@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,eACF,CAEA,YACE,YAAa,CACb,cACF","file":"main.5fb87369.chunk.css","sourcesContent":[".list-item {\n  list-style: none;\n}\n\n.tab-button {\n  outline: none;\n  cursor: pointer;\n}\n"]}
